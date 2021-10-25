@@ -1,0 +1,9 @@
+#Directoryies
+build/
+sandbox/
+.vscode/
+
+#Files
+compile_commands.json
+notes.txt
+.clangd

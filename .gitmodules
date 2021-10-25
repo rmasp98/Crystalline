@@ -1,0 +1,9 @@
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "libs/AsyncLib"]
+	path = libs/AsyncLib
+	url = https://github.com/rmasp98/AsyncLib.git
+[submodule "libs/Vulkan-Headers"]
+	path = libs/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
